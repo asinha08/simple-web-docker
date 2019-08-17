@@ -1,0 +1,15 @@
+{
+  "name": "simple-web-docker",
+  "version": "1.0.0",
+  "description": "how to use use docker with nodejs. this project is the simple web application running on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ashish Kumar Sinha",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
